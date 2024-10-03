@@ -8,7 +8,7 @@
 - Self-driving labs + automation
 - Machine Learning
 
-# Vapour Pressure
+### Vapour Pressure
 
 Below is a loosely categorised list of literature of relevance to odor
 prediction, vapour pressure prediction, how molecules and mixtures of molecules
@@ -29,7 +29,7 @@ are perceived, and more. They are loosely categorised.
 - [text to smell](categories/vapour-pressure-papers/text_to_smell.md)
 - [vapour pressure](categories/vapour-pressure-papers/vapour_pressure.md)
 
-# Peptides
+### Peptides
 
 Below is a loosely categorised list of literature of relevance to odor
 prediction, vapour pressure prediction, how molecules and mixtures of molecules
@@ -38,7 +38,7 @@ are perceived, and more. They are loosely categorised.
 - [Synthesis](categories/peptide-papers/Synthesis.md)
 
 
-# Surface Tension
+### Surface Tension
 
 Below is a loosely categorised list of literature of relevance to odor
 prediction, vapour pressure prediction, how molecules and mixtures of molecules
@@ -47,7 +47,7 @@ are perceived, and more. They are loosely categorised.
 - [Artificial Olfaction](categories/Artificial_Olfaction.md)
 
 
-# Self-driving labs + automation
+### Self-driving labs + automation
 
 Below is a loosely categorised list of literature of relevance to odor
 prediction, vapour pressure prediction, how molecules and mixtures of molecules
@@ -55,7 +55,7 @@ are perceived, and more. They are loosely categorised.
 
 - [Artificial Olfaction](categories/Artificial_Olfaction.md)
 
-# Mahine Learning
+### Mahine Learning
 
 Below is a loosely categorised list of literature of relevance to odor
 prediction, vapour pressure prediction, how molecules and mixtures of molecules
